@@ -1,0 +1,12 @@
+# Members of Mystery Inc. and their role in the gang.
+mystery-inc:
+  - name: Fred
+    role: leader
+  - name: Daphne
+    role: danger-prone detective
+  - name: Velma
+    role: brains
+  - name: Shaggy
+    role: snack expert
+  - name: Scooby-Doo
+    role: dog
